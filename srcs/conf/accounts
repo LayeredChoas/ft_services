@@ -1,0 +1,39 @@
+Mysql:
+--------------------
+	USER: ayoub
+	PASS: ayoub
+--------------------
+
+InfluxDB:
+--------------------
+	USER: ayoub
+	PASS: mypassword
+---------------------
+
+Grafana:
+---------------------
+	USER: admin
+	PASS: admin
+---------------------
+
+Wordpress:
+---------------------
+Admin:	
+		USER: admin
+		PASS: admin
+USERS:
+		USER: user1, user2, user3, user4, user5
+		PASS: username
+---------------------
+
+Phpmyadmin:
+---------------------
+	USER: ayoub
+	PASS: ayoub
+---------------------
+
+SSH:
+---------------------
+	USER: admin
+	PASS: admin
+---------------------
