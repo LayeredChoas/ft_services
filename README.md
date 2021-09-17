@@ -1,7 +1,7 @@
 
 # ft_services
 
-> The project consists of implementing an infrastructure with different services using kubernetes. School project done at 42Madrid.
+> The project consists of implementing an infrastructure with different services using kubernetes.
 
 ### Learn Build Teach 🚀
 
